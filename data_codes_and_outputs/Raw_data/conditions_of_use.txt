@@ -1,0 +1,36 @@
+-= INTERMAGNET Conditions Of Use =-
+    
+The member institutes of INTERMAGNET invest considerable resources 
+to operate their magnetic observatories to INTERMAGNET standards. 
+It is important that the institutes producing the data have a measure 
+of the scientific return on their investment. Accordingly,  we have 
+the following Conditions of Use.
+    
+-= Conditions of use for data provided through intermagnet =-
+
+The data made available through INTERMAGNET are provided for your 
+use and are not for commercial use or sale or distribution to third 
+parties without the written permission of the institute operating the 
+observatory. Publications making use of the data should include an 
+acknowledgment statement of the form given below. A citation reference 
+should be sent to the INTERMAGNET Secretary (secretary@intermagnet.org) 
+for inclusion in a publications list on the INTERMAGNET website.
+    
+-= Acknowledgement of data from observatories participating in INTERMAGNET =-
+    
+We offer two acknowledgement templates. The first is for cases where data from 
+many observatories have been used and it is not practical to list them all, or 
+each of their operating institutes. The second is for cases where research 
+results have been produced using a smaller set of observatories.
+    
+  -= Suggested Acknowledgement Text (template 1) =-
+    
+	The results presented in this paper rely on data collected at magnetic observatories.  
+	We thank the national institutes that support them and INTERMAGNET for promoting high 
+	standards of magnetic observatory practice (www.intermagnet.org).
+    
+  -= Suggested Acknowledgement Text (template 2) =-
+    
+	The results presented in this paper rely on the data collected at <observatory name>. 
+	We thank <institute name>, for supporting its operation and INTERMAGNET for promoting 
+	high standards of magnetic observatory practice (www.intermagnet.org).
